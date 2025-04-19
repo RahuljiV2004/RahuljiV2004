@@ -68,9 +68,22 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahuljiV2004&layout=compact&langs_count=6&theme=radical)
 
-## 🏆 LeetCode Stats
 
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/rahuljV)
+### 🌐 **Coding Platforms**:
+
+<!-- LeetCode Image and Link -->
+[![LeetCode](https://upload.wikimedia.org/wikipedia/commons/3/3b/LeetCode_Logo.png)](https://leetcode.com/rahuljV)
+[LeetCode Profile](https://leetcode.com/rahuljV)
+
+<!-- GeeksforGeeks Image and Link -->
+[![GeeksforGeeks](https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200.png)](https://www.geeksforgeeks.org/)
+[GeeksforGeeks](https://www.geeksforgeeks.org/)
+
+<!-- Codeforces Image and Link -->
+[![Codeforces](https://codeforces.org/s/17657/images/codeforces_logo.png)](https://codeforces.com/)
+[Codeforces](https://codeforces.com/)
+
+---
 
 ## 📫 Connect with Me
 
