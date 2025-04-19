@@ -71,17 +71,10 @@
 
 ### 🌐 **Coding Platforms**:
 
-<!-- LeetCode Image and Link -->
-[![LeetCode](https://avatars.githubusercontent.com/u/41718343?s=280&v=4)
+
 [LeetCode Profile](https://leetcode.com/rahuljV)
-
-<!-- GeeksforGeeks Image and Link -->
-[![GeeksforGeeks](https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200.png)](https://www.geeksforgeeks.org/)
-[GeeksforGeeks](https://www.geeksforgeeks.org/)
-
-<!-- Codeforces Image and Link -->
-[![Codeforces](https://codeforces.org/s/17657/images/codeforces_logo.png)](https://codeforces.com/)
-[Codeforces](https://codeforces.com/)
+[GeeksforGeeks](https://www.geeksforgeeks.org/user/rahuljiv/)
+[Codeforces](https://codeforces.com/profile/Rahul_V2004)
 
 ---
 
