@@ -75,14 +75,21 @@
 </p>
 
 ---
+## 🌱 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahuljiV2004&layout=compact&langs_count=6&theme=radical)
+
+## 🏆 LeetCode Stats
+
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/?username=rahuljV)
 
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/rahulji-v" target="_blank">
+  <a href="https://www.linkedin.com/in/rahulji-v-26948b215/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:rahulji@example.com">
+  <a href="mailto:rahuljivisu2004@gmail.com.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
