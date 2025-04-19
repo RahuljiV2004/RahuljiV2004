@@ -72,7 +72,7 @@
 ### 🌐 **Coding Platforms**:
 
 <!-- LeetCode Image and Link -->
-[![LeetCode](https://upload.wikimedia.org/wikipedia/commons/3/3b/LeetCode_Logo.png)](https://leetcode.com/rahuljV)
+[![LeetCode](https://www.google.com/imgres?q=leetcode&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1008%2F1*VOQU8CuPG34Gsd1yJCadOQ.png&imgrefurl=https%3A%2F%2Flevelup.gitconnected.com%2Fthe-leetcode-dilemma-is-it-really-necessary-2481aab797a5&docid=cO_1kj1VCoyzpM&tbnid=asAYlr75kchcZM&vet=12ahUKEwi7isXV4OSMAxVXka8BHaMpA54QM3oECHkQAA..i&w=1008&h=504&hcb=2&ved=2ahUKEwi7isXV4OSMAxVXka8BHaMpA54QM3oECHkQAA)](https://leetcode.com/rahuljV)
 [LeetCode Profile](https://leetcode.com/rahuljV)
 
 <!-- GeeksforGeeks Image and Link -->
