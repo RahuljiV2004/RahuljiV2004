@@ -70,7 +70,7 @@
 
 ## 🏆 LeetCode Stats
 
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/?username=rahuljV)
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/rahuljV)
 
 ## 📫 Connect with Me
 
