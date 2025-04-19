@@ -15,24 +15,13 @@
 - 🎓 Final Year @ Shiv Nadar University, Chennai  
 ## 🧩 Projects I'm Proud Of
 
-- 🏛️ **Heritopia**  
-  Explore historical,tourist landmarks across India with interactive maps, reviews, and cultural insights.  
-  👉 Integrated IPFS-based face encoding storage and on-site identity verification at tourist spots.
-
-
-- 📄 **Resume Enhancer**  
-  AI-powered tool that critiques and enhances your resume based on job descriptions.  
-  👉 Includes mock interview simulations and real-time confidence parameter detection using facial analysis.
-
-
-- 🛡️ **Pentest Toolkit**  
-  A lightweight toolkit for beginners to practice web vulnerability assessments locally.  
-  👉 Contributed in integrating the backend APIs and designing an appealing, intuitive dashboard.
-
-
-- 💸 **Financial Fraud Detector**  
-  ML-based system to identify fraudulent financial transactions using real datasets.  
-  👉 Implemented features like risk scoring, money laundering detection, and anomaly analysis using ML algorithms.
+| Project | Description |
+|--------|-------------|
+| 🏛️ [**Heritopia**](#) | Explore historical landmarks across India with interactive maps, reviews, and cultural insights.<br>🚀 Integrated **IPFS-based face encoding storage** and **on-site identity verification** at heritage events. |
+| 📄 [**Resume Enhancer**](#) | AI-powered tool to critique and enhance resumes based on job descriptions.<br>🤖 Includes **mock interview simulations** and **real-time confidence detection** via facial analysis. |
+| 🛡️ [**Pentest Toolkit**](#) | Lightweight toolkit for practicing web vulnerability assessments locally.<br>🛠️ Contributed to **backend API integration** and designed a **clean, intuitive dashboard**. |
+| 💸 [**Financial Fraud Detector**](#) | ML-based system to flag fraudulent financial transactions using real-world datasets.<br>🔍 Features include **risk scoring**, **money laundering detection**, and **ML-based anomaly analysis**. |
+| 🚓 [**Accident Alert System**](#) | IoT-based system for accident detection with **automatic vehicle stopping** and **real-time location alerts**.<br>🚗 Integrated with **vibration sensors**, **alcohol detection**, **GPS modules**, and **machine learning** for accident prediction and prevention. |
 
 ---
 - 🌱 Currently learning: SpringBoot || Next.js || Web3
