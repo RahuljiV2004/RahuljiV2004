@@ -62,8 +62,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahulji-V&show_icons=true&theme=tokyonight&count_private=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahulji-V&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RahuljiV2004&show_icons=true&theme=tokyonight&count_private=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahuljiV2004&theme=tokyonight" width="47%" />
 </p>
 
 ---
@@ -71,7 +71,7 @@
 ## 📊 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahulji-V&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RahuljiV2004&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
