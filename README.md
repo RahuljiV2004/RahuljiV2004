@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&width=500&lines=Web+Dev+%7C+IoT+%7C+ML+%7C+Explorer;Always+Learning+%F0%9F%93%9A+Always+Building+%F0%9F%9A%A7" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Rahulji-V&label=Profile+views&color=0e75b6&style=flat" alt="visitor counter" />
 </p>
 
